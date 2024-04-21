@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<head><title>UNTITLED BOXING GAME</title></head>
+<body bgcolor="black">
+	<font color="white" face="verdana">
+<header>
+<a href="index.html">
+
+<img src="img/logo2.jpg">
+
+
+</a>
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td>hawk</td>
+<td>hitman</td>
+<td>chronos</td>
+<td>slugger</td>
+<td>ghost</td>
+<td>freedom</td>
+<td>ironfist</td>
+</tr>
+</table>
+</nav>
+<hr>
+<h2>KNOCK OUT</h2> 
+
+<p>
+LEGENDARY STYLES - ALL Boxing style in Hajime NO Ippo
+</p>  
+
+<p><strong>Takamura Mamoru (SLUGGER)</strong></p>
+
+<img src="img/mamoru.jpg"> 
+
+
+<ul>
+<li>A geniuse in the ring with overwhelming power</li>
+<li>Punch every shot with 110%power</li>
+<li>Weak dash and block</li>
+<li>Amazing punch damage</li>
+<li>Ultimate move:Rage</li>
+
+<p><strong>Ryo Mashiba (HITMAN)</strong></p>
+
+<img src="img/mashiba.jpg">
+
+
+<ul>
+<li>Punishes other with devastating flicker jabs</li>
+<li>And chopping rights</li>
+<li>Fast startup with good range</li>
+<li>Great damage, but weak dash</li>
+<li>Ultimate move:Nightmare Barrage</li>
+
+<p><strong>Bryan Hawk (HAWK)</strong></p>
+
+<img src="img/HAWK.jpg">
+
+
+<ul>
+<li>A wild unpredictable style that can throw punches from any possible angle</li>
+<li>Good counters,damage,but bad block</li>
+<li>Can't move backwards,but can perfectly dodge all punches with it</li>
+<li>Ultimate move:Pure Violence</li>
+
+<p><strong>Ricardo Martinez (GHOST)<strong><p>
+
+<img src="img/ricardo.jpg">
+
+
+<ul>
+<li>'He who rules with his left rules the world'</li>
+<li>The legendary Ghost Jab is the fastest and unreactable punch in existence</li>
+<li>However, it can blocked and takes long time to recover after throwing</li>
+<li>Ultimate move:Goodbye Soul</li>
+
+<p><strong>Kamogawa Genji (IRON FIST)<strong><p>
+
+<img src="img/genji.jpg">
+
+
+<ul>
+<li>Nothing is a greater short-cut than hard work</li>
+<li>Your hands were forged from hard training and deal MASSIVE damage</li>
+<li>Inflict slowing,but HURT you when you land them</li>
+<li>On top of that,it will take less damage when being countered while throwing heavy punches</li>
+<li>Ultimate:No Ribs Survived</li>
+
+<p>
+THANKYOU
+</p>
+</body>
+
